@@ -6,7 +6,4 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 
-
-Notes starts here:
-
-namba 1
+Jamani nimeona kitu kipya
