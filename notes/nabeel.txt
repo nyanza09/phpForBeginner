@@ -1,0 +1,6 @@
+{} ~ sudo service apache 2 stop 
+[sudo] password for developer: 
+apache: unrecognized service
+{} ~ sudo service mysql stop
+{} ~ sudo service nginx-osp stop
+{} ~ sudo /opt/lampp/lampp start
