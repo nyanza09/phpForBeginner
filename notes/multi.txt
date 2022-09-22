@@ -1,0 +1,21 @@
+multidimensional array > it decleares a variable which can hold two or more than two arrays
+                
+                 syntax= 
+
+                 $name = [ 
+                    [
+                        //area for coding
+
+                         ],
+                    [
+                        //area for coding
+
+                         ],     
+                        ];
+
+
+  browsing program in a compiler
+
+    print_r ( $name );           [to view all the array program]
+    print_r ( $name[index] );    [to view single array in an array]
+    echo $name[index]['data'];   [to view a data]

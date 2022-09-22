@@ -1,0 +1,4 @@
+syntax
+ for( initialization; condtion; increment){
+    
+ }

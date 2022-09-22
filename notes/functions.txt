@@ -1,0 +1,11 @@
+syntax
+
+  function name(){
+   $gg = value;
+   
+   $yy = $gg * $gg
+
+   echo " $yy ";
+  }
+
+    name()

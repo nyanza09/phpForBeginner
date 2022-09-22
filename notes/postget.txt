@@ -1,0 +1,43 @@
+post and get superglobal
+are superglobals which used for sending or posting data in a form.
+
+GET method => it sends inormation of forms that is visible\binds information in url.
+for sensitive information (that you dont wan them be seen/ binded  in url ) we use => POST method.
+
+
+
+example:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> PostGet | page </title>
+</head>
+
+<body>
+
+<form method="GET/POST" action="name of receiving folder.php">
+
+<div>
+<label>
+      workers
+<input type="text" name="employee"> 
+</label>
+</label>
+
+<div>
+<label>
+       salary
+<input type="number" name="salary">
+</label>
+</div>
+
+
+<button type="submit" name="but" value="submit">submit</button>
+
+</form>
+</body>
+</html>
+
+
+

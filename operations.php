@@ -7,7 +7,7 @@
 <body>
 
 	<?php
-	$marks = 40 ** 2;
+	$marks = 40 / 2;
 	echo "$marks";
 ?>
 </body>

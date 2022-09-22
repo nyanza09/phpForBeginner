@@ -1,0 +1,13 @@
+do while loop is differ from while loop because;
+ => code in do while loop  run at once even if the condition is false
+
+ syntax;
+
+ do{
+
+    echo "code";
+    $name++;
+    echo <br>;
+ }
+
+ while( condition );
