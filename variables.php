@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
    <head>
@@ -11,3 +12,10 @@
    ?>
  </body>
 </html>
+=======
+html = hypertext markup language
+css = cascading stylesheet
+php = Hypertexg pre-proccessor
+javascript 
+mysql
+>>>>>>> 9d49489c15a68092be071bdfefed668cab3b451e
