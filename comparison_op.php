@@ -8,9 +8,12 @@
 		<?php
 		$marks = 70;
 		 
-		 if ($marks > 60 and $marks !70); {
-		 	echo "thats great";
-		 }
+		if( $marks > 50 or $marks < 50){
+			echo" go down ";
+		}
+	
+		  
+		 
 
 		?>
 	</body>

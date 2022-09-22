@@ -1,0 +1,19 @@
+is the superglobal which is stored in a localhost and not in a server.
+
+setcookie( "name", "value", "expire", "directory", "sudomain", "secure");
+
+secure => http/https for none = false
+sudomain = www.crown.com
+
+to print on screen html in php.
+
+echo "<a href=\" foldername/filename \">view cookie</a>;
+
+href= location we wanna go 
+( create new folder and file inside it)
+ \\ used to to escape double quotes ("" )
+
+setcookie( 'name', 'nabeel', time()+secs, '/directory/', )
+ echo $_COOKIE['name'];
+
+ we terminate cookie by selecting the whole cookie and paste in the other file

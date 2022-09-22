@@ -5,6 +5,10 @@
 </head>
 <body>
     <?php
+    // maelezo ya msingi 
+    //dharura
+    // maelekezo //
+
      echo 'comment page';
      ?>
      </body>

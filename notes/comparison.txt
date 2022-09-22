@@ -1,0 +1,11 @@
+            AND en OR
+$name = value;
+if( condition)
+{
+  echo "code";
+};
+ 
+  for "AND" 'if one is  true and other is false, the expression will give FALSE output.
+  for "OR" if one is  true and other is false, the expression will give TRUE output.
+  
+  

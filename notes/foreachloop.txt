@@ -1,0 +1,4 @@
+ foreach( $ffff as $yy ) {
+                echo $yy['data']." ";
+                echo $yy['data']."<br>"; 
+                }

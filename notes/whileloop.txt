@@ -1,0 +1,7 @@
+in order for while loop to run, the condition  must be true.
+SYNTAX
+
+while ( $name > value ) 
+{
+echo "code .<br>";
+}

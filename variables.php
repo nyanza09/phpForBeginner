@@ -1,23 +1,13 @@
-<!doctype html>
-	<html>
-	<head>
-		<title> variables | page </title>
-	</head>
-	<body>
-<?php
-   //variable string
- $name = "nabeel";
-  //var_dump"$name";
-
- //variable float
- $time =766;
- //var_dump($time);
-
- $home = "34"+2;
- var_dump($home);
-
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> comments | php </title>
+   </head>
+ <body>
+   <?php
+   /* maelezo ya msingi
+   maelezo ya ziada */
+    echo "comments in php";
    ?>
-   </body>
-   </html>
-
-
+ </body>
+</html>

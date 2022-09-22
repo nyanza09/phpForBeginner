@@ -4,3 +4,12 @@ apache: unrecognized service
 {} ~ sudo service mysql stop
 {} ~ sudo service nginx-osp stop
 {} ~ sudo /opt/lampp/lampp start
+
+
+
+**
+array > here we declare variable which can hold more than one data
+
+ syntax/
+        $name = array('hfh' => 'jjh',);
+      

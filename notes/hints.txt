@@ -1,0 +1,3 @@
+incase apache or mysql are shutdown unexpectedly
+> first restart the computer due to may the process of 
+ switching on the computer went improperly.
