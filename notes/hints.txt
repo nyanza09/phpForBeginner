@@ -1,14 +1,14 @@
 incase apache or mysql are shutdown unexpectedly
 > first restart the computer due to may the process of 
- switching on the computer went improperly.
- ============================================
+switching on the computer went improperly.
+============================================
 
 
 
 
- commands to start apache and mysql in ubuntu os.
- ================================================
- } ~ sudo service mysql stop
+commands to start apache and mysql in ubuntu os.
+================================================
+} ~ sudo service mysql stop
 [sudo] password for developer: 
 {} ~ sudo service nginx-osp stop
 {} ~ sudo /opt/lampp/lampp start
