@@ -1,4 +1,43 @@
-syntax
+"for" loop
+======================
+For loop is used to formulate a loop that have a definite and or 
+the loop that end is vividly known from the start.
+
+Example:
+> Counting the number ofk students in class:
+> Counting number of  elements in array
+
+
+
+Syntanx of "for" loop
+======================
  for( initialization; condtion; increment){
-    
- }
+      code .... 
+   }
+
+
+Realo life example:
+--------------------
+$students = arra(
+    [
+        'name' => 'feyswal',
+        'gender' => 'male',
+        'age' => 12
+    ],
+    [
+        'name' => 'feyswal',
+        'gender' => 'male',
+        'age' => 12
+    ],
+    [
+        'name' => 'feyswal',
+        'gender' => 'male',
+        'age' => 12
+    ]
+);
+
+
+for( $g=0; $g < count(students); $g++ ){
+    echo $students[0]." ".$students[1]."<br>";
+}
+

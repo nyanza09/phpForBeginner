@@ -36,9 +36,9 @@
 
 
  
-   echo $students[2]['location'];
+   //echo $students[2]['location'];
  
-
+  print_r( $students[2]);
 ?>
  </body>
 

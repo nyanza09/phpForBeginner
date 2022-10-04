@@ -1,3 +1,17 @@
 incase apache or mysql are shutdown unexpectedly
 > first restart the computer due to may the process of 
  switching on the computer went improperly.
+ ============================================
+
+
+
+
+ commands to start apache and mysql in ubuntu os.
+ ================================================
+ } ~ sudo service mysql stop
+[sudo] password for developer: 
+{} ~ sudo service nginx-osp stop
+{} ~ sudo /opt/lampp/lampp start
+Starting XAMPP for Linux 8.1.4-0...
+XAMPP: Starting Apache...ok.
+XAMPP: Starting MySQL...ok. 

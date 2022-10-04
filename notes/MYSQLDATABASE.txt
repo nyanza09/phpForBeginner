@@ -1,0 +1,32 @@
+CREATING MYSQL DATABASE IN XAMPP GUI.
+=====================================
+01. CREATING TABLE IN MYSQL DATABASE.
+-------------------------------------
+=>If you want your application to be dynamic (to be updated),
+then you must have a database.
+
+=>database:it holds or stores your informations in a website.
+example; login informations
+
+Procedures.
+----------
+=>open your browser and write (localhost) at the url then enter.
+=>Then select (phpmyadmin)
+=>select (new) to create your new database and give it a name,
+after that click 'create' button.
+=>Inside the database create a table and customize it,
+then click 'go' button.
+=>After creating a table scroll down then click 'save' button 
+so as to save the table and changes you made in it.
+
+
+02.MYSQL "SELECT" QUERY.
+------------------------
+=>Its functions is to retrieve or fetch data from a database
+=>Select command is used to fetch the data in a set of records from a table, 
+view a group of tables.
+
+example;
+SELECT * FROM users WHERE gender = 'female';
+(*)=>stands for "all"
+FROM users => this means from table "users"
